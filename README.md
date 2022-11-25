@@ -18,3 +18,9 @@ Vous verrez tout le reste sur le site !
 
 Vous pouvez suivre ici pour avoir tous les autres info: <br>
 <a href="https://twitter.com/wcat_fr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+# Sources
+
+Voici les sources que j'ai utilisé:
+<a href="https://wiki.famitsu.com/shironeko/">Wiki Famitsu JP</a>
+Les jeux Shironeko (Project, Tennis et Golf)
