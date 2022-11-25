@@ -10,7 +10,11 @@ Le site va guider les joueurs comment jouer les classes qui ne se limite pas qu'
 # Présentation des menus
 Le jeu ne se limite pas qu'aux classes, il faut aussi comprendre les menus
 
+# Et bien d'autre chose
+
+Vous verrez tout le reste sur le site !
+
 # Suivre la page FR de Shironeko Project
 
-Vous pouvez suivre ici pour avoir tous les autres info:
+Vous pouvez suivre ici pour avoir tous les autres info: <br>
 <a href="https://twitter.com/wcat_fr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
