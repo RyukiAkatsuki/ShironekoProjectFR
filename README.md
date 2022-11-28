@@ -1,18 +1,16 @@
-# Shironeko Project Guide FR
+# Shironeko Project FR
 
-Bienvenue dans ce guide FR de Shironeko Project.
-Ce site a pour but de guider les futurs joueurs francophones qui ne comprenennent pas le jeu.
-Le guide ne se penchera pas que sur Shironeko Project. Des guides sur Shironeko Tennis et Golf seront aussi à disposition au besoin mais le site se penche principalement sur Shironeko Project.
-
-# Présentation des classes
-Le site va guider les joueurs comment jouer les classes qui ne se limite pas qu'au compétences
-
-# Présentation des menus
-Le jeu ne se limite pas qu'aux classes, il faut aussi comprendre les menus
-
-# Et bien d'autre chose
-
-Vous verrez tout le reste sur le site !
+Bienvenue dans ce site FR de Shironeko Project.
+Ce site a pour but d'apporter plein d'information sur les personnages et les armes sorties à ce jour, bien sûr, il y aura des guides de comment jouer sur Shironeko Project, Tennis et Golf pour initier les personnes dans des pays francophones qui ne comprennent pas le japonais, le chinois traditionnel et l'anglais. Vous pourez voir les ancians personnages qui était présent et les anciens collaboration également. Ce site sera un wiki et un guide. Voici la liste non exhaustive qu'il y aura:
+* Présentation de la licence à la page d'accueil
+* Section Arme
+* Section Personnage
+* Différences entre JP et TW
+* Guide FR des Menu
+* Guide FR des classes
+* Guide FR Shironeko Tennis
+* Guide FR Shironeko Golf
+* etc.
 
 # Suivre la page FR de Shironeko Project
 
