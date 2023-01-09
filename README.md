@@ -21,4 +21,4 @@ Vous pouvez suivre ici pour avoir tous les autres info: <br>
 
 Voici les sources que j'ai utilisé:
 <a href="https://wiki.famitsu.com/shironeko/">Wiki Famitsu JP</a> <br>
-Les jeux Shironeko (Project, Tennis et Golf)
+Les jeux Shironeko (Project, Tennis, Golf et TCG (Trading Card Game))
